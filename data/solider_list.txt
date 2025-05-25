@@ -1,0 +1,200 @@
+﻿B-001|Đặng Minh Khánh|Trung Sĩ|Tiểu đoàn 3|Thanh Hóa|11/01/1988|08/09/2022|Vận tải|Binh Sĩ
+B-002|Hoàng Văn Khánh|Trung Sĩ|Tiểu đoàn 2|Cần Thơ|27/01/1989|17/01/2021|Bảo vệ|Binh Sĩ
+B-003|Trần Ngọc Phong|Binh Nhì|Tiểu đoàn 1|Hà Nội|06/03/1996|12/10/2021|Vận tải|Binh Sĩ
+B-004|Bùi Thanh Đạt|Hạ Sĩ|Đại đội 1|Gia Lai|16/07/1987|18/04/2023|Vận tải|Binh Sĩ
+B-005|Phạm Đức Nam|Trung Sĩ|Tiểu đoàn 3|Thanh Hóa|15/01/1993|25/02/2022|Vận tải|Binh Sĩ
+B-006|Lê Đức An|Binh Nhì|Đại đội 1|Bắc Ninh|13/08/2000|15/11/2023|Vận tải|Binh Sĩ
+B-007|Đỗ Đức Vinh|Binh Nhất|Đại đội 2|Hải Phòng|28/12/1991|03/03/2022|Trinh sát|Binh Sĩ
+B-008|Nguyễn Văn Thành|Binh Nhất|Tiểu đoàn 2|Đà Nẵng|05/09/1990|20/06/2021|Công binh|Binh Sĩ
+B-009|Trần Hữu Nam|Hạ Sĩ|Tiểu đoàn 4|Huế|01/04/1995|10/01/2023|Thông tin|Binh Sĩ
+B-010|Lê Đình Quyết|Trung Sĩ|Tiểu đoàn 1|Nghệ An|18/11/1986|01/05/2022|Vận tải|Binh Sĩ
+B-011|Võ Thanh Tùng|Binh Nhì|Đại đội 3|Bình Dương|22/03/1998|08/07/2023|Y tế|Binh Sĩ
+B-012|Phạm Văn Đức|Binh Nhất|Tiểu đoàn 3|Thái Bình|10/06/1992|14/02/2022|Pháo binh|Binh Sĩ
+B-013|Hoàng Quốc Việt|Hạ Sĩ|Đại đội 2|Quảng Ninh|29/07/1994|21/11/2021|Tăng thiết giáp|Binh Sĩ
+B-014|Nguyễn Minh Hiếu|Trung Sĩ|Tiểu đoàn 2|Cần Thơ|07/02/1989|16/09/2022|Hậu cần|Binh Sĩ
+B-015|Trần Đức Anh|Binh Nhì|Tiểu đoàn 1|Lạng Sơn|03/05/1997|19/12/2022|Quân y|Binh Sĩ
+B-016|Đỗ Văn Hùng|Binh Nhất|Đại đội 1|Nam Định|14/10/1993|01/08/2023|Bộ binh|Binh Sĩ
+B-017|Lê Văn Hoàng|Hạ Sĩ|Tiểu đoàn 4|Đồng Nai|25/01/1996|09/03/2022|Phòng không|Binh Sĩ
+B-018|Phạm Quang Huy|Trung Sĩ|Tiểu đoàn 3|Phú Thọ|17/09/1987|05/07/2021|Đặc công|Binh Sĩ
+B-019|Nguyễn Việt Anh|Binh Nhì|Đại đội 2|Thừa Thiên Huế|19/11/1999|11/04/2023|Công binh|Binh Sĩ
+B-020|Trần Hoàng Giang|Binh Nhất|Tiểu đoàn 2|Vĩnh Phúc|02/08/1990|23/01/2022|Thông tin|Binh Sĩ
+B-021|Đặng Thành Trung|Hạ Sĩ|Tiểu đoàn 1|Hải Dương|08/04/1995|07/06/2023|Pháo binh|Binh Sĩ
+B-022|Lê Quang Vinh|Trung Sĩ|Đại đội 1|Quảng Bình|13/03/1988|15/10/2022|Vận tải|Binh Sĩ
+B-023|Phạm Mạnh Cường|Binh Nhì|Tiểu đoàn 3|Bắc Giang|26/09/1997|28/02/2023|Y tế|Binh Sĩ
+B-024|Nguyễn Duy Khánh|Binh Nhất|Đại đội 3|Bình Định|04/12/1991|10/01/2022|Bộ binh|Binh Sĩ
+B-025|Trần Minh Quân|Hạ Sĩ|Tiểu đoàn 4|Kiên Giang|09/05/1994|12/07/2021|Hậu cần|Binh Sĩ
+B-026|Đỗ Trọng Nghĩa|Trung Sĩ|Tiểu đoàn 2|Hà Nam|20/01/1986|06/04/2022|Trinh sát|Binh Sĩ
+B-027|Lê Văn Thái|Binh Nhì|Đại đội 1|Thái Nguyên|16/07/1998|03/09/2023|Thông tin|Binh Sĩ
+B-028|Phạm Văn Trường|Binh Nhất|Tiểu đoàn 1|Cao Bằng|11/02/1992|18/03/2022|Phòng không|Binh Sĩ
+B-029|Nguyễn Hữu Thiện|Hạ Sĩ|Tiểu đoàn 3|Sóc Trăng|23/08/1996|24/11/2021|Tăng thiết giáp|Binh Sĩ
+B-030|Trần Anh Tuấn|Trung Sĩ|Đại đội 2|Bạc Liêu|01/01/1989|07/05/2022|Công binh|Binh Sĩ
+B-031|Đặng Quang Minh|Binh Nhì|Tiểu đoàn 4|Lâm Đồng|15/04/1997|14/12/2022|Quân y|Binh Sĩ
+B-032|Lê Đức Trung|Binh Nhất|Đại đội 3|Phú Yên|27/05/1993|02/08/2023|Bộ binh|Binh Sĩ
+B-033|Phạm Hoài Nam|Hạ Sĩ|Tiểu đoàn 2|Kon Tum|12/06/1995|19/01/2022|Đặc công|Binh Sĩ
+B-034|Nguyễn Văn Lâm|Trung Sĩ|Tiểu đoàn 1|Lai Châu|06/10/1987|11/06/2021|Vận tải|Binh Sĩ
+B-035|Trần Thanh Long|Binh Nhì|Đại đội 1|Điện Biên|28/11/1999|20/04/2023|Y tế|Binh Sĩ
+B-036|Đỗ Duy Mạnh|Binh Nhất|Tiểu đoàn 3|Cà Mau|03/09/1990|05/03/2022|Pháo binh|Binh Sĩ
+B-037|Lê Trọng Nghĩa|Hạ Sĩ|Đại đội 2|Trà Vinh|10/01/1994|26/10/2021|Thông tin|Binh Sĩ
+B-038|Phạm Gia Bảo|Trung Sĩ|Tiểu đoàn 4|Bình Phước|08/03/1988|13/09/2022|Hậu cần|Binh Sĩ
+B-039|Nguyễn Khắc Duy|Binh Nhì|Tiểu đoàn 2|Tây Ninh|21/04/1997|25/02/2023|Trinh sát|Binh Sĩ
+B-040|Trần Mạnh Dũng|Binh Nhất|Đại đội 3|Bắc Kạn|07/07/1991|09/01/2022|Công binh|Binh Sĩ
+B-041|Đặng Văn Hiếu|Hạ Sĩ|Tiểu đoàn 1|Hà Giang|14/08/1996|17/07/2021|Phòng không|Binh Sĩ
+B-042|Lê Hoàng Anh|Trung Sĩ|Đại đội 1|Yên Bái|26/02/1989|04/04/2022|Tăng thiết giáp|Binh Sĩ
+B-043|Phạm Văn Thắng|Binh Nhì|Tiểu đoàn 3|Tuyên Quang|19/05/1998|22/11/2022|Quân y|Binh Sĩ
+B-044|Nguyễn Trung Kiên|Binh Nhất|Tiểu đoàn 2|Lào Cai|05/10/1992|01/03/2023|Bộ binh|Binh Sĩ
+B-045|Trần Quốc Dũng|Hạ Sĩ|Đại đội 2|Sơn La|02/01/1995|15/08/2021|Đặc công|Binh Sĩ
+B-046|Đỗ Hữu Hùng|Trung Sĩ|Tiểu đoàn 4|Hoà Bình|11/04/1986|10/07/2022|Vận tải|Binh Sĩ
+B-047|Lê Đình Khoa|Binh Nhì|Tiểu đoàn 1|Hưng Yên|30/06/1997|16/02/2023|Y tế|Binh Sĩ
+B-048|Phạm Gia Long|Binh Nhất|Đại đội 3|Vĩnh Long|08/09/1993|06/01/2022|Pháo binh|Binh Sĩ
+B-049|Nguyễn Việt Hưng|Hạ Sĩ|Tiểu đoàn 2|Đồng Tháp|24/12/1996|21/10/2021|Thông tin|Binh Sĩ
+B-050|Trần Minh Tuấn|Trung Sĩ|Đại đội 1|An Giang|17/03/1989|14/09/2022|Hậu cần|Binh Sĩ
+B-051|Đặng Minh Tuấn|Binh Nhì|Tiểu đoàn 3|Thanh Hóa|11/01/1998|08/09/2023|Vận tải|Binh Sĩ
+B-052|Hoàng Văn Hùng|Trung Sĩ|Tiểu đoàn 2|Cần Thơ|27/01/1999|17/01/2022|Bảo vệ|Binh Sĩ
+B-053|Trần Ngọc Duy|Binh Nhì|Tiểu đoàn 1|Hà Nội|06/03/1996|12/10/2022|Vận tải|Binh Sĩ
+B-054|Bùi Thanh Bình|Hạ Sĩ|Đại đội 1|Gia Lai|16/07/1987|18/04/2024|Vận tải|Binh Sĩ
+B-055|Phạm Đức Cường|Trung Sĩ|Tiểu đoàn 3|Thanh Hóa|15/01/1993|25/02/2023|Vận tải|Binh Sĩ
+B-056|Lê Đức Duy|Binh Nhì|Đại đội 1|Bắc Ninh|13/08/2000|15/11/2024|Vận tải|Binh Sĩ
+B-057|Đỗ Đức Phát|Binh Nhất|Đại đội 2|Hải Phòng|28/12/1991|03/03/2023|Trinh sát|Binh Sĩ
+B-058|Nguyễn Văn Minh|Binh Nhất|Tiểu đoàn 2|Đà Nẵng|05/09/1990|20/06/2022|Công binh|Binh Sĩ
+B-059|Trần Hữu Kiên|Hạ Sĩ|Tiểu đoàn 4|Huế|01/04/1995|10/01/2024|Thông tin|Binh Sĩ
+B-060|Lê Đình Anh|Trung Sĩ|Tiểu đoàn 1|Nghệ An|18/11/1986|01/05/2023|Vận tải|Binh Sĩ
+B-061|Võ Thanh Huy|Binh Nhì|Đại đội 3|Bình Dương|22/03/1998|08/07/2024|Y tế|Binh Sĩ
+B-062|Phạm Văn Kiên|Binh Nhất|Tiểu đoàn 3|Thái Bình|10/06/1992|14/02/2023|Pháo binh|Binh Sĩ
+B-063|Hoàng Quốc Dũng|Hạ Sĩ|Đại đội 2|Quảng Ninh|29/07/1994|21/11/2022|Tăng thiết giáp|Binh Sĩ
+B-064|Nguyễn Minh Quân|Trung Sĩ|Tiểu đoàn 2|Cần Thơ|07/02/1989|16/09/2023|Hậu cần|Binh Sĩ
+B-065|Trần Đức Mạnh|Binh Nhì|Tiểu đoàn 1|Lạng Sơn|03/05/1997|19/12/2023|Quân y|Binh Sĩ
+B-066|Đỗ Văn Thành|Binh Nhất|Đại đội 1|Nam Định|14/10/1993|01/08/2024|Bộ binh|Binh Sĩ
+B-067|Lê Văn Toàn|Hạ Sĩ|Tiểu đoàn 4|Đồng Nai|25/01/1996|09/03/2023|Phòng không|Binh Sĩ
+B-068|Phạm Quang Vinh|Trung Sĩ|Tiểu đoàn 3|Phú Thọ|17/09/1987|05/07/2022|Đặc công|Binh Sĩ
+B-069|Nguyễn Việt Dũng|Binh Nhì|Đại đội 2|Thừa Thiên Huế|19/11/1999|11/04/2024|Công binh|Binh Sĩ
+B-070|Trần Hoàng Hải|Binh Nhất|Tiểu đoàn 2|Vĩnh Phúc|02/08/1990|23/01/2023|Thông tin|Binh Sĩ
+B-071|Đặng Thành Nam|Hạ Sĩ|Tiểu đoàn 1|Hải Dương|08/04/1995|07/06/2024|Pháo binh|Binh Sĩ
+B-072|Lê Quang Hùng|Trung Sĩ|Đại đội 1|Quảng Bình|13/03/1988|15/10/2023|Vận tải|Binh Sĩ
+B-073|Phạm Mạnh Dũng|Binh Nhì|Tiểu đoàn 3|Bắc Giang|26/09/1997|28/02/2024|Y tế|Binh Sĩ
+B-074|Nguyễn Duy Tùng|Binh Nhất|Đại đội 3|Bình Định|04/12/1991|10/01/2023|Bộ binh|Binh Sĩ
+B-075|Trần Minh Khoa|Hạ Sĩ|Tiểu đoàn 4|Kiên Giang|09/05/1994|12/07/2022|Hậu cần|Binh Sĩ
+B-076|Đỗ Trọng Cường|Trung Sĩ|Tiểu đoàn 2|Hà Nam|20/01/1986|06/04/2023|Trinh sát|Binh Sĩ
+B-077|Lê Văn Hùng|Binh Nhì|Đại đội 1|Thái Nguyên|16/07/1998|03/09/2024|Thông tin|Binh Sĩ
+B-078|Phạm Văn An|Binh Nhất|Tiểu đoàn 1|Cao Bằng|11/02/1992|18/03/2023|Phòng không|Binh Sĩ
+B-079|Nguyễn Hữu Tài|Hạ Sĩ|Tiểu đoàn 3|Sóc Trăng|23/08/1996|24/11/2022|Tăng thiết giáp|Binh Sĩ
+B-080|Trần Anh Hải|Trung Sĩ|Đại đội 2|Bạc Liêu|01/01/1989|07/05/2023|Công binh|Binh Sĩ
+B-081|Đặng Quang Huy|Binh Nhì|Tiểu đoàn 4|Lâm Đồng|15/04/1997|14/12/2023|Quân y|Binh Sĩ
+B-082|Lê Đức Thịnh|Binh Nhất|Đại đội 3|Phú Yên|27/05/1993|02/08/2024|Bộ binh|Binh Sĩ
+B-083|Phạm Hoài An|Hạ Sĩ|Tiểu đoàn 2|Kon Tum|12/06/1995|19/01/2023|Đặc công|Binh Sĩ
+B-084|Nguyễn Văn Hiếu|Trung Sĩ|Tiểu đoàn 1|Lai Châu|06/10/1987|11/06/2022|Vận tải|Binh Sĩ
+B-085|Trần Thanh Dũng|Binh Nhì|Đại đội 1|Điện Biên|28/11/1999|20/04/2024|Y tế|Binh Sĩ
+B-086|Đỗ Duy Anh|Binh Nhất|Tiểu đoàn 3|Cà Mau|03/09/1990|05/03/2023|Pháo binh|Binh Sĩ
+B-087|Lê Trọng Đức|Hạ Sĩ|Đại đội 2|Trà Vinh|10/01/1994|26/10/2022|Thông tin|Binh Sĩ
+B-088|Phạm Gia Long|Trung Sĩ|Tiểu đoàn 4|Bình Phước|08/03/1988|13/09/2023|Hậu cần|Binh Sĩ
+B-089|Nguyễn Khắc Tuấn|Binh Nhì|Tiểu đoàn 2|Tây Ninh|21/04/1997|25/02/2024|Trinh sát|Binh Sĩ
+B-090|Trần Mạnh Hải|Binh Nhất|Đại đội 3|Bắc Kạn|07/07/1991|09/01/2023|Công binh|Binh Sĩ
+B-091|Đặng Văn Long|Hạ Sĩ|Tiểu đoàn 1|Hà Giang|14/08/1996|17/07/2022|Phòng không|Binh Sĩ
+B-092|Lê Hoàng Long|Trung Sĩ|Đại đội 1|Yên Bái|26/02/1989|04/04/2023|Tăng thiết giáp|Binh Sĩ
+B-093|Phạm Văn Hải|Binh Nhì|Tiểu đoàn 3|Tuyên Quang|19/05/1998|22/11/2023|Quân y|Binh Sĩ
+B-094|Nguyễn Trung Dũng|Binh Nhất|Tiểu đoàn 2|Lào Cai|05/10/1992|01/03/2024|Bộ binh|Binh Sĩ
+B-095|Trần Quốc Hải|Hạ Sĩ|Đại đội 2|Sơn La|02/01/1995|15/08/2022|Đặc công|Binh Sĩ
+B-096|Đỗ Hữu Quân|Trung Sĩ|Tiểu đoàn 4|Hoà Bình|11/04/1986|10/07/2023|Vận tải|Binh Sĩ
+B-097|Lê Đình Phong|Binh Nhì|Tiểu đoàn 1|Hưng Yên|30/06/1997|16/02/2024|Y tế|Binh Sĩ
+B-098|Phạm Gia Phát|Binh Nhất|Đại đội 3|Vĩnh Long|08/09/1993|06/01/2023|Pháo binh|Binh Sĩ
+B-099|Nguyễn Việt Dũng|Hạ Sĩ|Tiểu đoàn 2|Đồng Tháp|24/12/1996|21/10/2022|Thông tin|Binh Sĩ
+B-100|Trần Minh Hiếu|Trung Sĩ|Đại đội 1|An Giang|17/03/1989|14/09/2023|Hậu cần|Binh Sĩ
+S-001|Nguyễn Văn Nam|Đại Úy|Tiểu đoàn 1|Hà Nội|01/01/1975|10/05/2005|Chỉ huy|Sĩ Quan
+S-002|Trần Thị Mai|Thiếu Tá|Tiểu đoàn 2|TP.HCM|15/02/1978|20/08/2008|Tham mưu|Sĩ Quan
+S-003|Lê Văn Bình|Trung Úy|Đại đội 3|Đà Nẵng|20/03/1985|05/11/2010|Chính trị viên|Sĩ Quan
+S-004|Phạm Minh Đức|Thượng Úy|Tiểu đoàn 4|Hải Phòng|10/04/1980|12/07/2007|Phó chỉ huy|Sĩ Quan
+S-005|Hoàng Anh Tuấn|Đại Úy|Đại đội 1|Cần Thơ|25/05/1977|03/09/2006|Chỉ huy|Sĩ Quan
+S-006|Nguyễn Thị Thoa|Thiếu Tá|Tiểu đoàn 3|Huế|05/06/1979|18/10/2009|Tham mưu|Sĩ Quan
+S-007|Đỗ Thanh Lam|Trung Úy|Tiểu đoàn 2|Nghệ An|12/07/1986|25/01/2012|Chính trị viên|Sĩ Quan
+S-008|Vũ Đức Cường|Thượng Úy|Tiểu đoàn 1|Bình Dương|18/08/1981|01/03/2008|Phó chỉ huy|Sĩ Quan
+S-009|Trần Văn Quyết|Đại Úy|Đại đội 2|Quảng Ninh|07/09/1976|14/06/2005|Chỉ huy|Sĩ Quan
+S-010|Lê Thị Hồng|Thiếu Tá|Tiểu đoàn 4|Thanh Hóa|03/10/1982|22/04/2010|Tham mưu|Sĩ Quan
+S-011|Nguyễn Hữu Tài|Trung Úy|Đại đội 1|Gia Lai|09/11/1987|30/07/2013|Chính trị viên|Sĩ Quan
+S-012|Phạm Văn Kiên|Thượng Úy|Tiểu đoàn 3|Đồng Nai|14/12/1983|08/09/2009|Phó chỉ huy|Sĩ Quan
+S-013|Hoàng Minh Công|Đại Úy|Tiểu đoàn 2|Kiên Giang|29/01/1975|17/02/2006|Chỉ huy|Sĩ Quan
+S-014|Trần Duy Hải|Thiếu Tá|Tiểu đoàn 1|Hải Dương|04/02/1980|28/11/2011|Tham mưu|Sĩ Quan
+S-015|Lê Văn Minh|Trung Úy|Đại đội 3|Bình Phước|21/03/1984|10/06/2010|Chính trị viên|Sĩ Quan
+S-016|Nguyễn Thanh Bình|Thượng Úy|Tiểu đoàn 4|Tây Ninh|06/04/1982|19/01/2009|Phó chỉ huy|Sĩ Quan
+S-017|Đỗ Thị Hương|Đại Úy|Đại đội 1|Long An|11/05/1977|04/08/2007|Chỉ huy|Sĩ Quan
+S-018|Phạm Văn Nghĩa|Thiếu Tá|Tiểu đoàn 3|Vĩnh Long|16/06/1979|11/12/2008|Tham mưu|Sĩ Quan
+S-019|Trần Hữu Dũng|Trung Úy|Tiểu đoàn 2|An Giang|23/07/1985|02/05/2011|Chính trị viên|Sĩ Quan
+S-020|Lê Quốc Bảo|Thượng Úy|Tiểu đoàn 1|Cà Mau|01/08/1980|09/04/2007|Phó chỉ huy|Sĩ Quan
+S-021|Nguyễn Văn Thắng|Đại Úy|Tiểu đoàn 3|Thanh Hóa|01/01/1976|10/05/2006|Chỉ huy|Sĩ Quan
+S-022|Trần Thị Lan|Thiếu Tá|Tiểu đoàn 4|TP.HCM|15/02/1979|20/08/2009|Tham mưu|Sĩ Quan
+S-023|Lê Văn Hùng|Trung Úy|Đại đội 1|Đà Nẵng|20/03/1986|05/11/2011|Chính trị viên|Sĩ Quan
+S-024|Phạm Minh Trung|Thượng Úy|Tiểu đoàn 2|Hải Phòng|10/04/1981|12/07/2008|Phó chỉ huy|Sĩ Quan
+S-025|Hoàng Anh Quân|Đại Úy|Đại đội 3|Cần Thơ|25/05/1978|03/09/2007|Chỉ huy|Sĩ Quan
+S-026|Nguyễn Thị Mai|Thiếu Tá|Tiểu đoàn 1|Huế|05/06/1980|18/10/2010|Tham mưu|Sĩ Quan
+S-027|Đỗ Thanh Duy|Trung Úy|Tiểu đoàn 4|Nghệ An|12/07/1987|25/01/2013|Chính trị viên|Sĩ Quan
+S-028|Vũ Đức Long|Thượng Úy|Tiểu đoàn 3|Bình Dương|18/08/1982|01/03/2009|Phó chỉ huy|Sĩ Quan
+S-029|Trần Văn An|Đại Úy|Đại đội 2|Quảng Ninh|07/09/1977|14/06/2006|Chỉ huy|Sĩ Quan
+S-030|Lê Thị Hoa|Thiếu Tá|Tiểu đoàn 1|Thanh Hóa|03/10/1983|22/04/2011|Tham mưu|Sĩ Quan
+S-031|Nguyễn Hữu Trí|Trung Úy|Đại đội 3|Gia Lai|09/11/1988|30/07/2014|Chính trị viên|Sĩ Quan
+S-032|Phạm Văn Lực|Thượng Úy|Tiểu đoàn 2|Đồng Nai|14/12/1984|08/09/2010|Phó chỉ huy|Sĩ Quan
+S-033|Hoàng Minh Quân|Đại Úy|Tiểu đoàn 4|Kiên Giang|29/01/1976|17/02/2007|Chỉ huy|Sĩ Quan
+S-034|Trần Duy Mạnh|Thiếu Tá|Tiểu đoàn 3|Hải Dương|04/02/1981|28/11/2012|Tham mưu|Sĩ Quan
+S-035|Lê Văn Toàn|Trung Úy|Đại đội 1|Bình Phước|21/03/1985|10/06/2011|Chính trị viên|Sĩ Quan
+S-036|Nguyễn Thanh Hải|Thượng Úy|Tiểu đoàn 2|Tây Ninh|06/04/1983|19/01/2010|Phó chỉ huy|Sĩ Quan
+S-037|Đỗ Thị Hà|Đại Úy|Đại đội 3|Long An|11/05/1978|04/08/2008|Chỉ huy|Sĩ Quan
+S-038|Phạm Văn Tùng|Thiếu Tá|Tiểu đoàn 1|Vĩnh Long|16/06/1980|11/12/2009|Tham mưu|Sĩ Quan
+S-039|Trần Hữu Hùng|Trung Úy|Tiểu đoàn 4|An Giang|23/07/1986|02/05/2012|Chính trị viên|Sĩ Quan
+S-040|Lê Quốc Huy|Thượng Úy|Tiểu đoàn 3|Cà Mau|01/08/1981|09/04/2008|Phó chỉ huy|Sĩ Quan
+S-041|Nguyễn Văn Khánh|Đại Úy|Tiểu đoàn 2|Thanh Hóa|01/01/1977|10/05/2007|Chỉ huy|Sĩ Quan
+S-042|Trần Thị Thu|Thiếu Tá|Tiểu đoàn 1|TP.HCM|15/02/1980|20/08/2010|Tham mưu|Sĩ Quan
+S-043|Lê Văn Chung|Trung Úy|Đại đội 4|Đà Nẵng|20/03/1987|05/11/2012|Chính trị viên|Sĩ Quan
+S-044|Phạm Minh An|Thượng Úy|Tiểu đoàn 3|Hải Phòng|10/04/1982|12/07/2009|Phó chỉ huy|Sĩ Quan
+S-045|Hoàng Anh Đức|Đại Úy|Đại đội 2|Cần Thơ|25/05/1979|03/09/2008|Chỉ huy|Sĩ Quan
+S-046|Nguyễn Thị Nga|Thiếu Tá|Tiểu đoàn 4|Huế|05/06/1981|18/10/2011|Tham mưu|Sĩ Quan
+S-047|Đỗ Thanh Phúc|Trung Úy|Tiểu đoàn 3|Nghệ An|12/07/1988|25/01/2014|Chính trị viên|Sĩ Quan
+S-048|Vũ Đức Nghĩa|Thượng Úy|Tiểu đoàn 2|Bình Dương|18/08/1983|01/03/2010|Phó chỉ huy|Sĩ Quan
+S-049|Trần Văn Trung|Đại Úy|Đại đội 1|Quảng Ninh|07/09/1978|14/06/2007|Chỉ huy|Sĩ Quan
+S-050|Lê Thị Luyến|Thiếu Tá|Tiểu đoàn 3|Thanh Hóa|03/10/1984|22/04/2012|Tham mưu|Sĩ Quan
+S-051|Nguyễn Hữu Dũng|Trung Úy|Đại đội 2|Gia Lai|09/11/1989|30/07/2015|Chính trị viên|Sĩ Quan
+S-052|Phạm Văn Thắng|Thượng Úy|Tiểu đoàn 1|Đồng Nai|14/12/1985|08/09/2011|Phó chỉ huy|Sĩ Quan
+S-053|Hoàng Minh Hải|Đại Úy|Tiểu đoàn 4|Kiên Giang|29/01/1977|17/02/2008|Chỉ huy|Sĩ Quan
+S-054|Trần Duy Hiếu|Thiếu Tá|Tiểu đoàn 3|Hải Dương|04/02/1982|28/11/2013|Tham mưu|Sĩ Quan
+S-055|Lê Văn Phát|Trung Úy|Đại đội 2|Bình Phước|21/03/1986|10/06/2012|Chính trị viên|Sĩ Quan
+S-056|Nguyễn Thanh Tùng|Thượng Úy|Tiểu đoàn 1|Tây Ninh|06/04/1984|19/01/2011|Phó chỉ huy|Sĩ Quan
+S-057|Đỗ Thị Bích|Đại Úy|Đại đội 4|Long An|11/05/1979|04/08/2009|Chỉ huy|Sĩ Quan
+S-058|Phạm Văn Long|Thiếu Tá|Tiểu đoàn 3|Vĩnh Long|16/06/1981|11/12/2010|Tham mưu|Sĩ Quan
+S-059|Trần Hữu Phước|Trung Úy|Tiểu đoàn 2|An Giang|23/07/1987|02/05/2013|Chính trị viên|Sĩ Quan
+S-060|Lê Quốc Việt|Thượng Úy|Tiểu đoàn 1|Cà Mau|01/08/1982|09/04/2009|Phó chỉ huy|Sĩ Quan
+S-061|Nguyễn Văn Minh|Đại Úy|Tiểu đoàn 3|Thanh Hóa|01/01/1978|10/05/2008|Chỉ huy|Sĩ Quan
+S-062|Trần Thị Kim|Thiếu Tá|Tiểu đoàn 2|TP.HCM|15/02/1981|20/08/2011|Tham mưu|Sĩ Quan
+S-063|Lê Văn Đức|Trung Úy|Đại đội 1|Đà Nẵng|20/03/1988|05/11/2013|Chính trị viên|Sĩ Quan
+S-064|Phạm Minh Hải|Thượng Úy|Tiểu đoàn 4|Hải Phòng|10/04/1983|12/07/2010|Phó chỉ huy|Sĩ Quan
+S-065|Hoàng Anh Bình|Đại Úy|Đại đội 3|Cần Thơ|25/05/1980|03/09/2009|Chỉ huy|Sĩ Quan
+S-066|Nguyễn Thị Mai|Thiếu Tá|Tiểu đoàn 2|Huế|05/06/1982|18/10/2012|Tham mưu|Sĩ Quan
+S-067|Đỗ Thanh An|Trung Úy|Tiểu đoàn 1|Nghệ An|12/07/1989|25/01/2015|Chính trị viên|Sĩ Quan
+S-068|Vũ Đức Trọng|Thượng Úy|Tiểu đoàn 4|Bình Dương|18/08/1984|01/03/2011|Phó chỉ huy|Sĩ Quan
+S-069|Trần Văn Nam|Đại Úy|Đại đội 3|Quảng Ninh|07/09/1979|14/06/2008|Chỉ huy|Sĩ Quan
+S-070|Lê Thị Thảo|Thiếu Tá|Tiểu đoàn 2|Thanh Hóa|03/10/1985|22/04/2013|Tham mưu|Sĩ Quan
+S-071|Nguyễn Hữu Phúc|Trung Úy|Đại đội 1|Gia Lai|09/11/1990|30/07/2016|Chính trị viên|Sĩ Quan
+S-072|Phạm Văn Mạnh|Thượng Úy|Tiểu đoàn 4|Đồng Nai|14/12/1986|08/09/2012|Phó chỉ huy|Sĩ Quan
+S-073|Hoàng Minh Trí|Đại Úy|Tiểu đoàn 3|Kiên Giang|29/01/1978|17/02/2009|Chỉ huy|Sĩ Quan
+S-074|Trần Duy Tuấn|Thiếu Tá|Tiểu đoàn 2|Hải Dương|04/02/1983|28/11/2014|Tham mưu|Sĩ Quan
+S-075|Lê Văn Hùng|Trung Úy|Đại đội 4|Bình Phước|21/03/1987|10/06/2013|Chính trị viên|Sĩ Quan
+S-076|Nguyễn Thanh Dũng|Thượng Úy|Tiểu đoàn 3|Tây Ninh|06/04/1985|19/01/2012|Phó chỉ huy|Sĩ Quan
+S-077|Đỗ Thị Thúy|Đại Úy|Đại đội 2|Long An|11/05/1980|04/08/2010|Chỉ huy|Sĩ Quan
+S-078|Phạm Văn Sơn|Thiếu Tá|Tiểu đoàn 1|Vĩnh Long|16/06/1982|11/12/2011|Tham mưu|Sĩ Quan
+S-079|Trần Hữu Thiện|Trung Úy|Tiểu đoàn 4|An Giang|23/07/1988|02/05/2014|Chính trị viên|Sĩ Quan
+S-080|Lê Quốc Anh|Thượng Úy|Tiểu đoàn 3|Cà Mau|01/08/1983|09/04/2010|Phó chỉ huy|Sĩ Quan
+S-081|Nguyễn Văn Trường|Đại Úy|Tiểu đoàn 2|Hà Nội|05/09/1975|15/06/2006|Chỉ huy|Sĩ Quan
+S-082|Trần Minh Khải|Thiếu Tá|Tiểu đoàn 1|Đà Nẵng|10/10/1978|20/07/2009|Tham mưu|Sĩ Quan
+S-083|Lê Hoàng Yến|Trung Úy|Tiểu đoàn 3|TP.HCM|15/11/1984|25/08/2010|Chính trị viên|Sĩ Quan
+S-084|Phạm Quốc Tuấn|Thượng Úy|Tiểu đoàn 4|Hải Phòng|20/12/1979|01/06/2011|Phó chỉ huy|Sĩ Quan
+S-085|Nguyễn Anh Tuấn|Đại Úy|Tiểu đoàn 1|Cần Thơ|25/01/1976|10/03/2007|Chỉ huy|Sĩ Quan
+S-086|Trần Thanh Bình|Thiếu Tá|Tiểu đoàn 2|Huế|28/02/1981|12/04/2012|Tham mưu|Sĩ Quan
+S-087|Đỗ Phước Khánh|Trung Úy|Tiểu đoàn 3|Nghệ An|05/03/1987|18/05/2013|Chính trị viên|Sĩ Quan
+S-088|Nguyễn Trọng Cường|Thượng Úy|Tiểu đoàn 4|Bình Dương|10/04/1982|22/06/2009|Phó chỉ huy|Sĩ Quan
+S-089|Hoàng Minh Dũng|Đại Úy|Tiểu đoàn 1|Quảng Ninh|15/05/1977|28/07/2008|Chỉ huy|Sĩ Quan
+S-090|Lê Quốc Long|Thiếu Tá|Tiểu đoàn 2|Thanh Hóa|20/06/1980|03/09/2010|Tham mưu|Sĩ Quan
+S-091|Phạm Tiến An|Trung Úy|Tiểu đoàn 3|Gia Lai|25/07/1986|08/10/2011|Chính trị viên|Sĩ Quan
+S-092|Nguyễn Đức Duy|Thượng Úy|Tiểu đoàn 4|Đồng Nai|30/08/1981|13/11/2008|Phó chỉ huy|Sĩ Quan
+S-093|Trần Bá An|Đại Úy|Tiểu đoàn 1|Kiên Giang|05/09/1978|18/12/2009|Chỉ huy|Sĩ Quan
+S-094|Lê Văn Quyết|Thiếu Tá|Tiểu đoàn 2|Hải Dương|10/10/1983|23/01/2011|Tham mưu|Sĩ Quan
+S-095|Phạm Thị Lan|Trung Úy|Tiểu đoàn 3|Bình Phước|15/11/1989|28/02/2012|Chính trị viên|Sĩ Quan
+S-096|Hoàng Thanh Tâm|Thượng Úy|Tiểu đoàn 4|Tây Ninh|20/12/1984|03/04/2010|Phó chỉ huy|Sĩ Quan
+S-097|Nguyễn Thị Thu|Đại Úy|Tiểu đoàn 1|Long An|25/01/1979|08/05/2009|Chỉ huy|Sĩ Quan
+S-098|Trần Văn Trung|Thiếu Tá|Tiểu đoàn 2|Vĩnh Long|28/02/1982|13/06/2011|Tham mưu|Sĩ Quan
+S-099|Lê Quang Vinh|Trung Úy|Tiểu đoàn 3|An Giang|05/03/1988|18/07/2012|Chính trị viên|Sĩ Quan
+S-100|Phạm Quốc Hùng|Thượng Úy|Tiểu đoàn 4|Cà Mau|10/04/1983|23/08/2010|Phó chỉ huy|Sĩ Quan
